@@ -1,5 +1,5 @@
-# MAKE.MMO - CONSUMABLES
+# MAKE.MMO - CONSUMABLE
 
 [description]
-(Goes in the Consumables Pouch)
+(Goes in the Consumable Pouch)
 Healing Items, Buff/Debuff Items, Damage Items, Traps, Keys, Activators
