@@ -1,6 +1,6 @@
 # MAKE.MMO - FRAMEWORK
 
-[GAMEPLAN]
+>GAMEPLAN
 ```
 [X] [PHASE 1] Create the Folder Structure
 [X] [PHASE 2] Create readme.md documents for every folder
